@@ -34,9 +34,11 @@
         </li>
       {% endif %}
 
+      {% include author-profile-custom-links.html %}
+
       {% if author.uri %}
         <li>
-          <a href="{{ author.uri }}" itemprop="url">
+          <a href="{{ author.uri }}" target="_blank" itemprop="url">
             <i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
           </a>
         </li>
@@ -125,7 +127,7 @@
 
       {% if author.github %}
         <li>
-          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+          <a href="https://github.com/{{ author.github }}" target="_blank" itemprop="sameAs">
             <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
           </a>
         </li>
@@ -243,7 +245,6 @@
         </li>
       {% endif %}
 
-      {% include author-profile-custom-links.html %}
     </ul>
   </div>
 </div>
