@@ -10,7 +10,7 @@ tags:
 
 [Линк към презентацията](https://docs.google.com/presentation/d/1XofqAuzWZO5kdnfjE7UvkAWmT0GkgEIaKmbxrw4Ze7Q/edit?usp=sharing)
 
-{% include presentation id="1XofqAuzWZO5kdnfjE7UvkAWmT0GkgEIaKmbxrw4Ze7Q" %}
+{% include presentation id="2PACX-1vR8nkuqli7Y2W0SXzvVtQN7fufO7evvkdeHNvHV6lzHXGOYLEGFNUtNNZCDfleNXQ2rtQ_d91EZLCow" %}
 
 ## Решения на задачите за функции
 

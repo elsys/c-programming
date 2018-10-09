@@ -12,7 +12,7 @@ tags:
 
 [Линк към презентацията](https://docs.google.com/presentation/d/1YO8Ow553T2BoLdwpdhBBhoyiBOIBTmA_ZlA0x3aWRYg/edit?usp=sharing)
 
-{% include presentation id="1YO8Ow553T2BoLdwpdhBBhoyiBOIBTmA_ZlA0x3aWRYg" %}
+{% include presentation id="2PACX-1vROJkCBZmUvaZtOXZlOuh8RlgwaJRAxyvHuJIdenh471aw0duBJoqpXM4jeW7pF2Tf8Sness0JTVpQk" %}
 
 
 Нулево организационно домашно.
