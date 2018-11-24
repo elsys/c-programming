@@ -5,7 +5,7 @@ tags:
   - лекции
 ---
 
-[Линк към презентацията](https://docs.google.com/presentation/d/2PACX-1vTjpZH89d63cAQPO-mbtvwmSMwwXnxTETK9RaeH_kKjnxklvaFhkhb44JgCm1pioUqXpLxAPUiUnPuM/edit?usp=sharing)
+[Линк към презентацията](https://docs.google.com/presentation/d/1HR6gxPx_eadOBan7gWBmcB0DGX6IjUPhOpWeSP2Vf9Y/edit?usp=sharing)
 {% include presentation id="2PACX-1vTjpZH89d63cAQPO-mbtvwmSMwwXnxTETK9RaeH_kKjnxklvaFhkhb44JgCm1pioUqXpLxAPUiUnPuM" %}
 
 ## Решения на задачите за структури
