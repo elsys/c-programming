@@ -9,7 +9,7 @@ tags:
 {% include presentation id="2PACX-1vTaGIE_hbQwQCFjb85eKiZSCmMw-Hz3Sc-94z-MU1VEgkeVnxJh9rJa8TYVzrg5YK-ZMTIZ04nQSdZw" %}
 
 
-## Решения на задачите за структури
+## Решения на задачите за побитови операции
 
 ## Б клас
 ```c
